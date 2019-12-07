@@ -39,7 +39,7 @@ const Movie = (props) => {
           Director: <em>{director}</em>
         </div>
         <div className="movie-metascore">
-          Metascore: <strong>{metascore}</strong>
+          Metascores: <strong>{metascore}</strong>
         </div>
         <h3>Actors</h3>
 
